@@ -11,6 +11,9 @@
 3. Create a GitHub repository and upload your code  
 
 ##  Example run
+<<<<<<< HEAD
 Average: 30.0  
 Maximum: 50  
 Result of add between 10 and 5: 15  
+=======
+>>>>>>> 578539beb51835663f0cf27d745ccdd80e6a567f
